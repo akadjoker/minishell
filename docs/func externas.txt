@@ -1,0 +1,62 @@
+
+Readline:
+readline,
+rl_clear_history,
+rl_on_new_line,
+rl_replace_line,
+rl_redisplay,
+add_history,
+
+as cenas de sempre:
+printf,
+malloc,
+free,
+write,
+
+tenta acessar ao path:
+access
+
+Funções para arquivos e redirects:
+open
+read,
+close, 
+
+Funções das pipes:
+fork, wait, waitpid, wait3, wait4, exit, execve, dup, dup2, pipe,
+
+Funções do signal:
+signal, sigaction, sigemptyset, sigaddset,
+
+Funções para matar processos:
+kill, exit,
+
+retorna o diretorio atual:
+getcwd,
+
+muda de diretorio:
+chdir, 
+
+retorna as variaveis de ENV (recebe o nome):
+getenv
+
+retorna o file status:
+stat, lstat, fstat, 
+
+Call the unlink function to remove the specified FILE:
+unlink,
+
+Cenas para abrir, ler e fechar diretórios:
+opendir, readdir, closedir,
+
+Erros:
+strerror, perror, 
+
+test whether a file descriptor refers to a terminal:
+isatty, ttyname, 
+
+cenas confusas:
+ttyslot, ioctl,
+
+Mais cenas confusas:
+tcsetattr, tcgetattr, tgetent, tgetflag,
+tgetnum, tgetstr, tgoto, tputs 

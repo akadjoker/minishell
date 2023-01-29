@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1672257239 source:/media/djoker/data/code/42/projectos/shell/sh/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"libft.h"
+	<signal.h>
+	<stdlib.h>
+	<unistd.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<errno.h>
+	<sys/wait.h>
+	<fcntl.h>
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isalnum.c
+	"libft.h"
+
+1661454483 /media/djoker/data/code/42/projectos/shell/sh/include/libft.h
+	<stdlib.h>
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isalpha.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isascii.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isdigit.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isprint.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/checkers/ft_isspace.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/converters/ft_atoi.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/converters/ft_itoa.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstadd_back.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstadd_front.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstclear.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstdelone.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstiter.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstlast.c
+	"libft.h"
+	<stdio.h>
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstmap.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstnew.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/ft_lists/ft_lstsize.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/get_next_line/get_next_line.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_bzero.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_calloc.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_memchr.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_memcmp.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_memcpy.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_memmove.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_memset.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/memory/ft_realloc.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/count_printf.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/ft_printf.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/ft_putchar_fd.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/ft_putendl_fd.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/ft_putnbr_fd.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/print/ft_putstr_fd.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strchr.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strdup.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strjoin.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strlcat.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strlcpy.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strlen.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strncmp.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strnstr.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strrchr.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_strtrim.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_tolower.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_h/ft_toupper.c
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_new/ft_split.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_new/ft_striteri.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_new/ft_strmapi.c
+	"libft.h"
+
+1661454483 source:/media/djoker/data/code/42/projectos/shell/sh/sources/str_new/ft_substr.c
+	"libft.h"
+
