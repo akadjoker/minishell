@@ -23,5 +23,5 @@
 ##Authors [Lucas Luperi](https://github.com/lucas12ps) && [Luis Santos](https://github.com/akadjoker , https://github.com/lrosa-do)
 
 ## Usage
-<img src="images/minishell.gif" />
+<img src="images/demonstration.gif" />
 
