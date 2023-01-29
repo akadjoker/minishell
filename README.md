@@ -18,8 +18,7 @@
     <br>Modo interativo: ctrl-C exibe um novo prompt em uma nova linha, ctrl-D sai do shell, ctrl-\ não faz nada.<br>
     <br>Implementar os seguintes builtins: echo com a opção -n, cd com apenas um caminho relativo ou absoluto, pwd sem opções, export sem opções, unset sem opções, env sem opções ou argumentos, exit sem opções.</p>
 
-## Usage
-<img src="images/minishell.gif" />
+
 
 ##Authors [Lucas Luperi](https://github.com/lucas12ps) && [Luis Santos](https://github.com/akadjoker , https://github.com/lrosa-do)
 
